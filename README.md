@@ -12,3 +12,4 @@ LOW: 0x7A\
 HIGH: 0xFB\
 LOCK: 0xFF
 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
